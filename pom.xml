@@ -17,6 +17,7 @@
     <modules>
         <module>tomcat</module>
         <module>druid</module>
+        <module>hikariCP</module>
     </modules>
 
     <properties>
